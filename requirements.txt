@@ -5,6 +5,6 @@ transformers==4.30.2
 huggingface-hub==0.14.1
 qdrant-client>=1.7.0
 requests==2.31.0
-pydantic==2.5.0
+pydantic==1.10.13
 python-dotenv==1.0.0
 torch
