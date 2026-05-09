@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+*/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/cache files
+.cache/
+*.tmp
+*.temp
+
+# Local Qdrant storage
+qdrant_storage/
+
+# Build artifacts
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node modules (if accidentally present)
+node_modules/
